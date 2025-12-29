@@ -19,3 +19,11 @@ Bu belge, kuantum bilişim ve uç bilişimin (Quantum-Edge) entegrasyonu için �
 1. **Gecikme Süresi (Latency):** Kuantum işlemlerinin uçtaki gerçek zamanlı gereksinimleri karşılama oranı.
 2. **Güvenlik (Security):** Kuantum saldırılarına karşı direnç katsayısı.
 3. **Ölçeklenebilirlik:** Birden fazla uç düğümün kuantum ağa entegre edilebilme kapasitesi.
+
+---
+
+## 🔮 Gelecek Projeksiyonları
+
+2030 ve ötesi için hedeflenen TRL 9+ seviyesindeki vizyonumuz:
+- **Quantum-Sovereign Edge:** Merkezi bulut sistemlerinden bağımsız, kendi kuantum anahtarlarını üreten ve yöneten uç düğümler.
+- **Interplanetary Quantum-Edge:** Uzay haberleşmesinde (Mars-Dünya vb.) gecikme sürelerini kuantum dolanıklık simülasyonları ile optimize eden uç sistemler.
